@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cbc-security/.idea/cbc-security.iml" filepath="$PROJECT_DIR$/../cbc-security/.idea/cbc-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cbc_chat/.idea/cbc_chat.iml" filepath="$PROJECT_DIR$/../cbc_chat/.idea/cbc_chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/cbc_digital.iml" filepath="$PROJECT_DIR$/.idea/cbc_digital.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cbc_notification/.idea/cbc_notification.iml" filepath="$PROJECT_DIR$/../cbc_notification/.idea/cbc_notification.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/Prime Devs/cdc-digital/.idea/cdc-digital.iml" filepath="$USER_HOME$/Documents/Prime Devs/cdc-digital/.idea/cdc-digital.iml" />
+    </modules>
+  </component>
+</project>

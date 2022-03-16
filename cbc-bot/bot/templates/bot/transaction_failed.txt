@@ -1,0 +1,3 @@
+Your requested transaction of *Ksh.{{ transaction.amount }}* has failed.
+
+Reason Failed -> _{{ transaction.reason_failed }}_

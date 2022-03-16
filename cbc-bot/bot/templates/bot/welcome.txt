@@ -1,0 +1,2 @@
+Hi 👋 {{display_name}},
+Welcome to CBC digital.

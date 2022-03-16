@@ -1,0 +1,11 @@
+Django~=3.2.7
+djangorestframework~=3.12.4
+django-filter
+graphene-django
+gunicorn
+django-heroku
+django-cors-headers
+graphene~=2.1.9
+jsonfield~=3.1.0
+requests
+django-environ

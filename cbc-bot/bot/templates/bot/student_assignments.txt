@@ -1,0 +1,8 @@
+{% autoescape off %}
+{{ student.name }}'s assignment for the day
+{% for assignment in assignments %}
+📝 *{{assignment.subject.name}} Home Work*
+_{{assignment.name}}_
+{{assignment.description}}
+{% endfor %}
+{% endautoescape %}

@@ -1,0 +1,6 @@
+Payment of *Ksh.{{transaction.amount}}* initiated.
+_Please wait to Enter M-Pesa Pin On your Phone using Pop Up._
+You can also pay through paybill:
+
+*_Paybill Number -_* {{ transaction.paybill_number }}
+*_Account Number -_* {{ transaction.account_number }}

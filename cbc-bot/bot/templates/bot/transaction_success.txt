@@ -1,0 +1,4 @@
+{{transaction.mpesa_code}} Confirmed. Your payment of KES : {{transaction.amount}} has been received.
+Your subscription now expires in *{{ transaction.subscription.days_left }} days.*
+
+You can now receive notification when your child is given an assignment.

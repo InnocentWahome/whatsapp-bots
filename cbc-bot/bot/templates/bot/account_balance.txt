@@ -1,0 +1,15 @@
+{% autoescape off %}
+{% if is_empty %}
+
+You have no subscription .
+Enter you child's admission number to start receiving notifications
+when he/she is given an assignment
+
+{% else %}
+_*Subscription Balances*_
+{% for subscription in subscriptions %}
+⌛ {{ subscription.student.name }} - _{{ subscription.days_left }} days left_
+{% endfor %}
+
+{% endif %}
+{% endautoescape %}

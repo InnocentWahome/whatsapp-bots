@@ -1,0 +1,173 @@
+schema {
+  query: Query
+  mutation: Mutation
+}
+
+type AssignmentMutation {
+  assignment: AssignmentType
+  errors: [Error]
+}
+
+type AssignmentType {
+  id: ID!
+  name: String!
+  description: String!
+  teacher: TeacherType!
+  stream: StreamType!
+  subject: SubjectType!
+  startDate: DateTime!
+  dueDate: DateTime!
+}
+
+type BranchType {
+  id: ID!
+  name: String!
+  school: SchoolType!
+  classes: [ClassType!]!
+  teachers: [TeacherType!]!
+}
+
+type ClassType {
+  id: ID!
+  name: String!
+  branch: BranchType!
+  streams: [StreamType!]!
+}
+
+scalar DateTime
+
+type Error {
+  field: String
+  messages: [String]
+}
+
+type GuardianType {
+  id: ID!
+  name: String!
+  phone: String!
+  subscriptions: [SubscriptionType!]!
+}
+
+type IncentiveType {
+  id: ID!
+  school: SchoolType!
+  perSchool: Float!
+  perTeacher: Float!
+}
+
+scalar JSONString
+
+type LoginMutation {
+  token: String
+  user: UserType
+  errors: [Error]
+}
+
+type Mutation {
+  login(email: String, password: String): LoginMutation
+  assignment(branch: ID, description: String, dueDate: DateTime, id: ID, name: String, startDate: DateTime, stream: ID, subject: ID): AssignmentMutation
+}
+
+input PaginationType {
+  pageSize: Int
+  pageNumber: Int
+}
+
+type PricingModelType {
+  id: ID!
+  name: String!
+  description: String!
+  dailyRate: Float!
+  weeklyRate: Float!
+  monthlyRate: Float!
+  subscription: [SubscriptionType!]!
+}
+
+type Query {
+  user: UserType
+  users(query: String): [UserType]
+  schools(pagination: PaginationType, filters: JSONString): [SchoolType]
+  branches(pagination: PaginationType, filters: JSONString): [BranchType]
+  classes(pagination: PaginationType, filters: JSONString): [ClassType]
+  streams(pagination: PaginationType, filters: JSONString): [StreamType]
+  teachers(pagination: PaginationType, filters: JSONString): [TeacherType]
+  assignments(pagination: PaginationType, filters: JSONString): [AssignmentType]
+  subscriptions(pagination: PaginationType, filters: JSONString): [SubscriptionType]
+  pricingModels(pagination: PaginationType, filters: JSONString): [PricingModelType]
+  school(id: ID!): SchoolType
+  branch(id: ID!): BranchType
+  branchClass(id: ID!): ClassType
+  stream(id: ID!): StreamType
+  pricingModel(id: ID!): PricingModelType
+}
+
+type SchoolType {
+  id: ID!
+  name: String!
+  isVerified: Boolean!
+  branches: [BranchType!]!
+  subjects: [SubjectType!]!
+  incentive: IncentiveType
+}
+
+type StreamType {
+  id: ID!
+  name: String!
+  streamClass: ClassType!
+  students: [StudentType!]!
+  assignments: [AssignmentType!]!
+  displayName: String
+  subscribers: [SubscriptionType]
+}
+
+type StudentType {
+  id: ID!
+  name: String!
+  studentCode: String!
+  stream: StreamType
+  subscriptions: [SubscriptionType!]!
+}
+
+type SubjectType {
+  id: ID!
+  name: String!
+  description: String!
+  school: SchoolType
+  assignments: [AssignmentType!]!
+}
+
+type SubscriptionType {
+  id: ID!
+  guardian: GuardianType!
+  student: StudentType!
+  expiryDate: DateTime
+  pricingModel: PricingModelType!
+  isSubscribed: Boolean
+}
+
+type TeacherType {
+  id: ID!
+  user: UserType!
+  name: String!
+  phone: String!
+  branch: BranchType!
+  assignments: [AssignmentType!]!
+}
+
+type UserType {
+  id: ID!
+  lastLogin: DateTime
+  isSuperuser: Boolean!
+  username: String!
+  firstName: String!
+  lastName: String!
+  isStaff: Boolean!
+  isActive: Boolean!
+  dateJoined: DateTime!
+  email: String!
+  phone: String
+  emailConfirmed: Boolean!
+  createdBy: UserType
+  userSet: [UserType!]!
+  teachers: [TeacherType!]!
+}
