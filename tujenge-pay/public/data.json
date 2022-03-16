@@ -1,0 +1,6 @@
+HTTP/1.0 200 OK
+Cache-Control: no-cache, private
+Content-Type:  application/json
+Date:          Mon, 26 Jul 2021 18:00:24 GMT
+
+{"contacts":[{"profile":{"name":"Jay"},"wa_id":"254712675071"}],"messages":[{"from":"254712675071","id":"ABEGJUcSZ1BxAhAIEj3QJ6NB3-tty973JXdB","text":{"body":"Aat"},"timestamp":"1627207475","type":"text"}]}

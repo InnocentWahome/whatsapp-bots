@@ -1,0 +1,931 @@
+[
+    {
+    "etag": "119214933",
+    "tcc_crop": "799680000",
+    "tcc_product": "Matco (50g/20L)",
+    "tcc_targetpest": "Damping-off",
+    "title": "Crop Protection",
+    "knowledgearticleid": "38055320-fad3-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119212190",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "39055320-fad3-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119221968",
+    "tcc_crop": "799680000",
+    "tcc_product": "PEARL EXTRA 50% SC (20mls/20L)",
+    "tcc_targetpest": "Fusarium wilt",
+    "title": "Crop Protection",
+    "knowledgearticleid": "d0c55457-fad3-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119212195",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "d1c55457-fad3-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216648",
+    "tcc_crop": "799680000",
+    "tcc_product": "Enrich BM (20g/20L)",
+    "tcc_targetpest": "Bacterial canker",
+    "title": "Crop Protection",
+    "knowledgearticleid": "c5aeb6b7-02d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216649",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "c6aeb6b7-02d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216654",
+    "tcc_crop": "799680000",
+    "tcc_product": "Enrich BM (20g/20L)",
+    "tcc_targetpest": "Bacterial rot",
+    "title": "Crop Protection",
+    "knowledgearticleid": "89e72ddd-03d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216656",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "8ae72ddd-03d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216660",
+    "tcc_crop": "799680000",
+    "tcc_product": "Enrich BM (20g/20L)",
+    "tcc_targetpest": "Bacterial Wilt",
+    "title": "Crop Protection",
+    "knowledgearticleid": "2308bb03-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216661",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "2408bb03-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119220286",
+    "tcc_crop": "799680002",
+    "tcc_product": "KICK OUT 480 SL (200mls/20L) Applied 1 week pre-planting ",
+    "tcc_targetpest": "Weeds-Annual and Perennial grasses and broad leaved weeds",
+    "title": "Crop Protection",
+    "knowledgearticleid": "59a8391e-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216666",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "5aa8391e-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119221039",
+    "tcc_crop": "799680002",
+    "tcc_product": "TREMOR O.05 GR (3KG/Ha), WINNER 100 EC (2.5mls/20L)",
+    "tcc_targetpest": "Stalk borer",
+    "title": "Crop Protection",
+    "knowledgearticleid": "52e0f431-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216671",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "53e0f431-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216675",
+    "tcc_crop": "799680002",
+    "tcc_product": "D-AMINE 72SL (150mls/20L)",
+    "tcc_targetpest": "Broad leaved weeds in maize",
+    "title": "Crop Protection",
+    "knowledgearticleid": "26efd943-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216676",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "27efd943-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216680",
+    "tcc_crop": "799680002",
+    "tcc_product": "EASYGRO STARTER (40g/20L)",
+    "tcc_targetpest": "Nutrition",
+    "title": "Crop Protection",
+    "knowledgearticleid": "fc935262-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216681",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "fd935262-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216685",
+    "tcc_crop": "799680002",
+    "tcc_product": "SYMBION VAM PLUS (100gms/20L)",
+    "tcc_targetpest": "Increased root development and nutrient uptake",
+    "title": "Crop Protection",
+    "knowledgearticleid": "9ce3f971-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216686",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "9de3f971-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216690",
+    "tcc_crop": "799680001",
+    "tcc_product": " FIREWORKS (10mls/20L) ",
+    "tcc_targetpest": "Potato tuber moth",
+    "title": "Crop Protection",
+    "knowledgearticleid": "5e5c1f83-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216691",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "5f5c1f83-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222993",
+    "tcc_crop": "799680001",
+    "tcc_product": " FIREWORKS (10mls/20L); Climb 18 EC (10ml/20L) ",
+    "tcc_targetpest": "Leaf miner",
+    "title": "Crop Protection",
+    "knowledgearticleid": "52fa849b-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216696",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "53fa849b-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222958",
+    "tcc_crop": "799680001",
+    "tcc_product": "ENRICH BM (60gm/20ltr) + TOPCOP 50WP (50gm/20ltr)",
+    "tcc_targetpest": "Bacterial wilt",
+    "title": "Crop Protection",
+    "knowledgearticleid": "d1c48bab-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119216701",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "d2c48bab-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222860",
+    "tcc_crop": "799680001",
+    "tcc_product": "PEARL EXTRA 50% SC (20ml/20ltr) Drench",
+    "tcc_targetpest": "Fusarium wilt",
+    "title": "Crop Protection",
+    "knowledgearticleid": "bbaf48c7-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222181",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "bcaf48c7-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222829",
+    "tcc_crop": "799680001",
+    "tcc_product": "MISTRESS 72% WP(40gm/20ltr), MATCO 72WP(50gm/20ltr)",
+    "tcc_targetpest": "Downey mildew",
+    "title": "Crop Protection",
+    "knowledgearticleid": "6cbcefd9-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222186",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "6dbcefd9-04d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222190",
+    "tcc_crop": "799680001",
+    "tcc_product": " OSHOTHANE PLUS 75 WDG (50gm/20ltr) / MATCO 72WP(50gm/20ltr) / MISTRESS 72%WP(40gm/20L) / TOPCOP 50WP (50gm/20ltr) ",
+    "tcc_targetpest": "Early and Late Blights",
+    "title": "Crop Protection",
+    "knowledgearticleid": "79909304-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222191",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "7a909304-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222195",
+    "tcc_crop": "799680001",
+    "tcc_product": "TOKEN 325 SC (15ml/20ltr)",
+    "tcc_targetpest": "Powdery mildew",
+    "title": "Crop Protection",
+    "knowledgearticleid": "13eed140-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222196",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "14eed140-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222200",
+    "tcc_crop": "799680001",
+    "tcc_product": " Motoplus 25g/20L ",
+    "tcc_targetpest": "Annual grasses and broad leaved weeds",
+    "title": "Crop Protection",
+    "knowledgearticleid": "19f62f4f-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222201",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "1af62f4f-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222205",
+    "tcc_crop": "799680000",
+    "tcc_product": "Enrich BM (20g/20L)",
+    "tcc_targetpest": "Bacterial speck",
+    "title": "Crop Protection",
+    "knowledgearticleid": "f27c3cbf-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222206",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "f37c3cbf-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222210",
+    "tcc_crop": "799680000",
+    "tcc_product": "Topcop 50WP (50g/20L)",
+    "tcc_targetpest": "Common scab",
+    "title": "Crop Protection",
+    "knowledgearticleid": "72415fe2-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222211",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "73415fe2-05d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222215",
+    "tcc_crop": "799680000",
+    "tcc_product": "Wetsulf Jet (50g/20L)",
+    "tcc_targetpest": "Fruit rot",
+    "title": "Crop Protection",
+    "knowledgearticleid": "2426d207-06d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222216",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "2526d207-06d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222220",
+    "tcc_crop": "799680000",
+    "tcc_product": "Wetsulf jet (50g/20L)",
+    "tcc_targetpest": "Powdery mildew",
+    "title": "Crop Protection",
+    "knowledgearticleid": "7f68f61f-06d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222221",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "8068f61f-06d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222431",
+    "tcc_crop": "799680000",
+    "tcc_product": "Oshothane 80WP (50g/20L)",
+    "tcc_targetpest": "Early blight",
+    "title": "Crop Protection",
+    "knowledgearticleid": "e5dff1cd-06d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222226",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "e6dff1cd-06d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222480",
+    "tcc_crop": "799680000",
+    "tcc_product": " MATCO 72WP(50gm/20ltr), MISTRESS 72%WP(40gm/20L) ",
+    "tcc_targetpest": "Late blight",
+    "title": "Crop Protection",
+    "knowledgearticleid": "292fe1e4-06d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222231",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "2a2fe1e4-06d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222493",
+    "tcc_crop": "799680000",
+    "tcc_product": "Matco 72 WP (50g/20L)",
+    "tcc_targetpest": "Anthracnose",
+    "title": "Crop Protection",
+    "knowledgearticleid": "fff4460c-07d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222236",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "00f5460c-07d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222509",
+    "tcc_crop": "799680000",
+    "tcc_product": "PEARL EXTRA 50% SC (20mls/20L), Oshothane Plus 75WDG (40g/20L) ",
+    "tcc_targetpest": "Botrytis",
+    "title": "Crop Protection",
+    "knowledgearticleid": "67f9d042-07d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222291",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "68f9d042-07d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222293",
+    "tcc_crop": "799680000",
+    "tcc_product": "Control Whiteflies - Final flight (8g/20L)",
+    "tcc_targetpest": "Tomato leaf curl virus",
+    "title": "Crop Protection",
+    "knowledgearticleid": "86618356-07d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222294",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "87618356-07d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222296",
+    "tcc_crop": "799680000",
+    "tcc_product": "Control Aphids - Alpha Degree (10mls/20L)",
+    "tcc_targetpest": "Tomato mosaic virus",
+    "title": "Crop Protection",
+    "knowledgearticleid": "885a6d5f-08d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222297",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "895a6d5f-08d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222299",
+    "tcc_crop": "799680000",
+    "tcc_product": "Control Leaf hoppers - Dynamo (3g/20L)",
+    "tcc_targetpest": "Tomato top curl virus",
+    "title": "Crop Protection",
+    "knowledgearticleid": "20d4cfba-08d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222300",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "21d4cfba-08d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222302",
+    "tcc_crop": "799680000",
+    "tcc_product": "Control Thrips - Umeme top (10mls/20L)",
+    "tcc_targetpest": "Tomato spotted wilt virus",
+    "title": "Crop Protection",
+    "knowledgearticleid": "d8ecabd8-08d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222303",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "d9ecabd8-08d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222665",
+    "tcc_crop": "799680000",
+    "tcc_product": "Umeme Top (8mls/20L)",
+    "tcc_targetpest": "Cutworms",
+    "title": "Crop Protection",
+    "knowledgearticleid": "f1f969eb-08d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222306",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "f2f969eb-08d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222308",
+    "tcc_crop": "799680000",
+    "tcc_product": "Alpha degree (10mls/20L)",
+    "tcc_targetpest": "Aphids",
+    "title": "Crop Protection",
+    "knowledgearticleid": "753cd602-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222309",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "763cd602-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222311",
+    "tcc_crop": "799680000",
+    "tcc_product": "Alpha degree (10mls/20L)",
+    "tcc_targetpest": "Whiteflies",
+    "title": "Crop Protection",
+    "knowledgearticleid": "b42a7316-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222312",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "b52a7316-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222314",
+    "tcc_crop": "799680000",
+    "tcc_product": "Umeme top (10mls/20L)",
+    "tcc_targetpest": "Bollworms",
+    "title": "Crop Protection",
+    "knowledgearticleid": "f1701eaa-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222315",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "f2701eaa-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222317",
+    "tcc_crop": "799680000",
+    "tcc_product": "Final flight (8g/20L)",
+    "tcc_targetpest": "Thrips",
+    "title": "Crop Protection",
+    "knowledgearticleid": "413f27ba-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222318",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "423f27ba-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222710",
+    "tcc_crop": "799680000",
+    "tcc_product": "Protest (10mls/20L)",
+    "tcc_targetpest": "Mealybugs",
+    "title": "Crop Protection",
+    "knowledgearticleid": "c9743ecc-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222321",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "ca743ecc-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222323",
+    "tcc_crop": "799680000",
+    "tcc_product": "Climb 18EC (10mls/20L), Nimbecidine (50mls/20L) ",
+    "tcc_targetpest": "Red spidermites",
+    "title": "Crop Protection",
+    "knowledgearticleid": "602bb9f7-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222324",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "612bb9f7-09d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222326",
+    "tcc_crop": "799680000",
+    "tcc_product": "Climb 18 EC (10mls/20L), Nimbecidine (50mls/20L) ",
+    "tcc_targetpest": "Leaf miners",
+    "title": "Crop Protection",
+    "knowledgearticleid": "002ef62f-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222327",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "012ef62f-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222329",
+    "tcc_crop": "799680000",
+    "tcc_product": "Fireworks (10mls/20L), Nimbecidine (50mls/20L) ",
+    "tcc_targetpest": "Tuta Absoluta",
+    "title": "Crop Protection",
+    "knowledgearticleid": "63220846-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222330",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "64220846-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222332",
+    "tcc_crop": "799680002",
+    "tcc_product": "BLACK EARTH 85WSG (2kg/50kg Fertilizer)",
+    "tcc_targetpest": "Nutrient lock-up, Leaching, Water retention, Soil structure.",
+    "title": "Crop Protection",
+    "knowledgearticleid": "1bdbefa7-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222333",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "1cdbefa7-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119223153",
+    "tcc_crop": "799680002",
+    "tcc_product": "OSHOZYME GR ( 10MLS/20L)",
+    "tcc_targetpest": "Shoot sprouting, Chlorophyll, Nutrient uptake, Plant stress.",
+    "title": "Crop Protection",
+    "knowledgearticleid": "2e8eddc7-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222336",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "2f8eddc7-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222338",
+    "tcc_crop": "799680002",
+    "tcc_product": "KOLOPA 300 OD (75mls/20L) Apply once Post-emergence to weeds and the maize (3–5 leaf stage) 21 day after planting maize.",
+    "tcc_targetpest": "Weeds-Annual grasses and broad leaved weeds",
+    "title": "Crop Protection",
+    "knowledgearticleid": "025c98dd-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222339",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "035c98dd-0ad4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222341",
+    "tcc_crop": "799680002",
+    "tcc_product": "POTPHOS (20mls/20L)",
+    "tcc_targetpest": "Immunity boost and improved root development",
+    "title": "Crop Protection",
+    "knowledgearticleid": "509eca06-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222342",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "519eca06-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222344",
+    "tcc_crop": "799680002",
+    "tcc_product": "UMEME TOP 5 EC (10mls/20L)",
+    "tcc_targetpest": "Cutworms",
+    "title": "Crop Protection",
+    "knowledgearticleid": "039d8523-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222345",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "049d8523-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222347",
+    "tcc_crop": "799680002",
+    "tcc_product": "SHOTGUN 20 SP, MAGESTIK 700WDG (1g/20L), Manique 20% SL (5ml/20L) ",
+    "tcc_targetpest": "Leaf hoppers, Aphids, Bollworm, ear worm",
+    "title": "Crop Protection",
+    "knowledgearticleid": "f8da395d-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222348",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "f9da395d-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119223385",
+    "tcc_crop": "799680002",
+    "tcc_product": "RELAY 150SC (2mls/20L), LOTUS 75%SP (10g/20L), XPAND MAX 92SG (10g/20L), PASSWORD 57WDG (4g/20L)",
+    "tcc_targetpest": "Fall army worm",
+    "title": "Crop Protection",
+    "knowledgearticleid": "686ff378-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222351",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "696ff378-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222353",
+    "tcc_crop": "799680002",
+    "tcc_product": "AGROFEED (50mls/20L)",
+    "tcc_targetpest": "Nutrition- Foliar fertilizer",
+    "title": "Crop Protection",
+    "knowledgearticleid": "dcdae79a-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222354",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "dddae79a-0bd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222356",
+    "tcc_crop": "799680002",
+    "tcc_product": "OSHOZYME LIQUID (10MLS/20L)",
+    "tcc_targetpest": "Biostimulant",
+    "title": "Crop Protection",
+    "knowledgearticleid": "7a8ad01b-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222357",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "7b8ad01b-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119223403",
+    "tcc_crop": "799680002",
+    "tcc_product": "TOKEN 325SC",
+    "tcc_targetpest": "Grey leaf spot",
+    "title": "Crop Protection",
+    "knowledgearticleid": "f71bb86f-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222360",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "f81bb86f-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222362",
+    "tcc_crop": "799680002",
+    "tcc_product": "AQUAWET (10mls/20L)",
+    "tcc_targetpest": "Sticker, spreader and wetter",
+    "title": "Crop Protection",
+    "knowledgearticleid": "37f1bb96-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222363",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "38f1bb96-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222366",
+    "tcc_crop": "799680002",
+    "tcc_product": "MAGNUM GOLD",
+    "tcc_targetpest": "Sticker, spreader and wetter and mite control",
+    "title": "Crop Protection",
+    "knowledgearticleid": "da6c9fad-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222367",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "db6c9fad-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222371",
+    "tcc_crop": "799680002",
+    "tcc_product": "SKANA SUPER",
+    "tcc_targetpest": "Storage pests-Large grain borer (Osama), Weevils, Flour beetles, grain moth",
+    "title": "Crop Protection",
+    "knowledgearticleid": "572dfabe-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119222372",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "582dfabe-0cd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227551",
+    "tcc_crop": "799680001",
+    "tcc_product": "DYNAMO 70 WG (3gm/20ltr), Protest 200 SL (10ml/20L), Winner 100EC (2.5 ml/20L)",
+    "tcc_targetpest": "Aphids ",
+    "title": "Crop Protection",
+    "knowledgearticleid": "c2781e06-0fd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227552",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "c3781e06-0fd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227556",
+    "tcc_crop": "799680001",
+    "tcc_product": "DYNAMO 70 WG (3gm/20ltr), Protest 200 SL (10ml/20L), Winner 100EC (2.5 ml/20L)",
+    "tcc_targetpest": "White flies ",
+    "title": "Crop Protection",
+    "knowledgearticleid": "87db5315-0fd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227557",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "88db5315-0fd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227561",
+    "tcc_crop": "799680001",
+    "tcc_product": "NIMBECIDINE (100ml/20ltr), BIO NEMATON (100ml/20ltr)",
+    "tcc_targetpest": "Nematode",
+    "title": "Crop Protection",
+    "knowledgearticleid": "4dcf3332-0fd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227562",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "4ecf3332-0fd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227566",
+    "tcc_crop": "799680001",
+    "tcc_product": "Umeme Top (8mls/20ltr)",
+    "tcc_targetpest": "Cutworms",
+    "title": "Crop Protection",
+    "knowledgearticleid": "85a30542-0fd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227567",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "86a30542-0fd4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227571",
+    "tcc_crop": "799680002",
+    "tcc_product": "Kolopa, D-Amine",
+    "tcc_targetpest": "1st Weed control",
+    "title": "Crop Protection",
+    "knowledgearticleid": "ead67305-10d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227572",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "ebd67305-10d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227576",
+    "tcc_crop": "799680002",
+    "tcc_product": "HERBIKILL 20 SL (100mls/20L)",
+    "tcc_targetpest": "2nd weed control",
+    "title": "Crop Protection",
+    "knowledgearticleid": "fb22b319-10d4-eb11-9147-00155dfafa18"
+    },
+    {
+    "etag": "119227577",
+    "tcc_crop": null,
+    "tcc_product": null,
+    "tcc_targetpest": null,
+    "title": "Crop Protection",
+    "knowledgearticleid": "fc22b319-10d4-eb11-9147-00155dfafa18"
+    }
+
+]
